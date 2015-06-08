@@ -20,18 +20,20 @@ Data cleanup was done using Open Refine. The cleaned-up data was exported from O
 
     `{
       "geometry": {
-        "type": "Point",
+        "type": "Point", 
         "coordinates": [
           {{cells["Long"].value}},
           {{cells["Lat"].value}}
         ]
-      },
-      "type": "Feature",
+      }, 
+      "type": "Feature", 
       "properties": {
-        "name": "{{cells["CheeseName"].value}}",
-        "url": "{{cells["WebSiteEn"].value}}",
-        "text": "{{cells["FlavourEn"].value}}. {{cells["CharacteristicsEn"].value}} {{cells["CategoryTypeEn"].value}}, {{cells["MilkTypeEn"].value}}, {{cells["MilkTreatmentType"].value}}, {{cells["RindTypeEn"].value}}",
-        "created_at": "{{cells["ManufacturerName"].value}}",
+        "name": "{{cells["CheeseName"].value}}", 
+        "url": "{{cells["Website"].value}}", 
+        "created_at": "{{cells["ManufacturerName"].value}}, {{cells["Province"].value}}",         
+        "flavour": "{{cells["FlavourEn"].value}}",
+        "characteristics": "{{cells["CharacteristicsEn"].value}}",
+        "type": "{{cells["CategoryTypeEn"].value}} {{cells["MilkTypeEn"].value}} {{cells["MilkTreatmentType"].value}} {{cells["RindTypeEn"].value}}"
       }
     }`
 
