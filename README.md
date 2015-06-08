@@ -11,7 +11,7 @@ Used to export tabular data from Open Refine into geojson.
   "type": "FeatureCollection",
   "features": [`
 
-** Row Template **
+**Row Template**
 
     `{
       "geometry": {
@@ -34,5 +34,6 @@ Used to export tabular data from Open Refine into geojson.
 
 `,`
 
-** Suffix **
+**Suffix**
+
 `], "type": "FeatureCollection"}`
