@@ -4,7 +4,7 @@
 
   <link rel="stylesheet" href="../css/theme.css" />
 
-  <title>cheese map</title>
+  <title>Canadian Artisanal Cheese Map</title>
 
   <link rel="stylesheet" href="theme.css" />
   <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7/leaflet.css" />
@@ -23,7 +23,7 @@
 
     <div class="header">
       <h2>Canadian Artisanal Cheese Map</h2>
-      <h4>Data from the <a href="http://cheese-fromage.agr.gc.ca/">Canadian Cheese Directory</a>.<br/>Geolocated using <a href="https://developers.google.com/places/">Google Places API</a> and mapped using <a href="http://leafletjs.com/">leaflet.js</a>.</h4>
+      <h4>Data from the <a href="http://cheese-fromage.agr.gc.ca/">Canadian Cheese Directory</a>.<br/>Geolocated using <a href="https://developers.google.com/places/">Google Places API</a> and mapped using <a href="http://leafletjs.com/">leaflet.js</a> and <a href="https://www.mapbox.com/">Mapbox</a>.</h4>
       <h4>A <a href="http://wiki.code4lib.org/index.php/North#Code4Lib_North:_the_Sixth._St._Catharines_Public_Library.2C_June_4_.26_5.2C_2015">#code4lib2015</a> hackfest project by Thomas Guignard and Sara Allain.</h4>
     </div>
 
@@ -38,7 +38,7 @@
 
   var tiles = L.tileLayer('http://{s}.tiles.mapbox.com/v3/sallain.iba9olom/{z}/{x}/{y}.png', {
         maxZoom: 18,
-        attribution: '&copy; <a href="https://www.mapbox.com/tos/">Mapbox</a>'
+        attribution: '<a href="https://www.mapbox.com/tos/">Mapbox</a>'
       });
 
       var map = L.map('map').addLayer(tiles);
@@ -47,7 +47,7 @@
 
       var geoJsonLayer = L.geoJson(cheese, {
         onEachFeature: function (feature, layer) {
-        layer.bindPopup('<p><b>'+ feature.properties.name +'</b></p><p><i>'+ feature.properties.created_at +'</i></p><p>'+ feature.properties.text +'</p>');
+        layer.bindPopup('<p><b>'+ feature.properties.name +'</b></p><p>Made by: <a href="'+ feature.properties.url +'" target="_blank">'+ feature.properties.created_at +'</a></p><p>'+ feature.properties.text +'</p>');
         }
       });
 
