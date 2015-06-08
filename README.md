@@ -7,7 +7,6 @@ Used to export tabular data from Open Refine into geojson.
 **Prefix**
 
 `var cheese =
-
 {
   "type": "FeatureCollection",
   "features": [`
