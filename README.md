@@ -2,7 +2,7 @@
 
 ## Google Refine Template
 
-Used to export tabular data from Open Refine into geojson.
+Data cleanup was done using Open Refine. The cleaned-up data was exported from Open Refine into leaflet-happy geojson using the custom export feature found under *Export* > *Templating...*.
 
 **Prefix**
 
