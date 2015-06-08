@@ -7,112 +7,126 @@ var cheese =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.489538,
-          45.076445
+          -76.363195,
+          45.017501
         ]
       },
       "type": "Feature",
       "properties": {
         "name": "Madawaska",
         "url": "http://www.artisancheese.ca",
-        "text": "Slightly tangy center moving to a soft, sweet and slightly salty cream under the rind. Soft Cheese, Ewe, Bloomy Rind",
-        "created_at": "Back Forty Artisan Cheese",
+        "created_at": "Back Forty Artisan Cheese, Ontario",
+        "flavour": "",
+        "characteristics": "Slightly tangy center moving to a soft, sweet and slightly salty cream under the rind.",
+        "type": "Soft cheese. Ewe. Bloomy rind."
       }
     },
     {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.489538,
-          45.076445
+          -76.363195,
+          45.017501
         ]
       },
       "type": "Feature",
       "properties": {
         "name": "Dalhousie",
         "url": "http://www.artisancheese.ca",
-        "text": "Hints of butter, nuts, and fruit. Semi-soft Cheese, Ewe, Brushed Rind",
-        "created_at": "Back Forty Artisan Cheese",
+        "created_at": "Back Forty Artisan Cheese, Ontario",
+        "flavour": "Hints of butter, nuts, and fruit.",
+        "characteristics": "",
+        "type": "Semi-soft cheese. Ewe. Brushed rind."
       }
     },
     {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.489538,
-          45.076445
+          -76.363195,
+          45.017501
         ]
       },
       "type": "Feature",
       "properties": {
         "name": "Highland Blue",
         "url": "http://www.artisancheese.ca",
-        "text": "Butter and mushrooms. Unpressed blue mold cheese with natural rind Semi-soft Cheese, Ewe, ",
-        "created_at": "Back Forty Artisan Cheese",
+        "created_at": "Back Forty Artisan Cheese, Ontario",
+        "flavour": "Butter and mushrooms.",
+        "characteristics": "Unpressed blue mold cheese with natural rind.",
+        "type": "Semi-soft cheese. Ewe."
       }
     },
     {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.489538,
-          45.076445
+          -76.363195,
+          45.017501
         ]
       },
       "type": "Feature",
       "properties": {
         "name": "Flower Station",
         "url": "http://www.artisancheese.ca",
-        "text": "Feta Cheese Semi-soft Cheese, Ewe, No Rind",
-        "created_at": "Back Forty Artisan Cheese",
+        "created_at": "Back Forty Artisan Cheese, Ontario",
+        "flavour": "",
+        "characteristics": "Feta Cheese.",
+        "type": "Semi-soft cheese. Ewe. No rind."
       }
     },
     {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.489538,
-          45.076445
+          -76.363195,
+          45.017501
         ]
       },
       "type": "Feature",
       "properties": {
         "name": "Bonnecherre",
         "url": "http://www.artisancheese.ca",
-        "text": "Tangy and fruity. Toasted rind Semi-soft Cheese, Ewe, ",
-        "created_at": "Back Forty Artisan Cheese",
+        "created_at": "Back Forty Artisan Cheese, Ontario",
+        "flavour": "Tangy and fruity.",
+        "characteristics": "Toasted rind.",
+        "type": "Semi-soft cheese. Ewe."
       }
     },
     {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.489538,
-          45.076445
+          -76.363195,
+          45.017501
         ]
       },
       "type": "Feature",
       "properties": {
         "name": "Snow Road",
         "url": "http://www.artisancheese.ca",
-        "text": "Aromatic and intense flavour. Soft pale orange rind Soft Cheese, Ewe, Washed Rind",
-        "created_at": "Back Forty Artisan Cheese",
+        "created_at": "Back Forty Artisan Cheese, Ontario",
+        "flavour": "Aromatic and intense flavour.",
+        "characteristics": "Soft pale orange rind.",
+        "type": "Soft cheese. Ewe. Washed rind."
       }
     },
     {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.489538,
-          45.076445
+          -76.363195,
+          45.017501
         ]
       },
       "type": "Feature",
       "properties": {
         "name": "French Line",
         "url": "http://www.artisancheese.ca",
-        "text": "Butter, nuts and vanilla. Firm Cheese, Ewe, Brushed Rind",
-        "created_at": "Back Forty Artisan Cheese",
+        "created_at": "Back Forty Artisan Cheese, Ontario",
+        "flavour": "Butter, nuts and vanilla.",
+        "characteristics": "",
+        "type": "Firm cheese. Ewe. Brushed rind."
       }
     },
     {
@@ -125,10 +139,12 @@ var cheese =
       },
       "type": "Feature",
       "properties": {
-        "name": "Monpellier (Le)",
-        "url": "",
-        "text": "Creamy and milky. White creamy cheese Fresh Cheese, Cow, No Rind",
-        "created_at": "Biquetterie (La)",
+        "name": "Le Monpellier",
+        "url": "http://www.la-biquetterie.com/",
+        "created_at": "La Biquetterie, Quebec",
+        "flavour": "Creamy and milky.",
+        "characteristics": "White creamy cheese.",
+        "type": "Fresh cheese. Cow. No rind."
       }
     },
     {
@@ -141,10 +157,12 @@ var cheese =
       },
       "type": "Feature",
       "properties": {
-        "name": "Cheddar (Blancs d'Arcadie)",
+        "name": "Cheddar",
         "url": "http://www.lesblancsdarcadie.com.en.html",
-        "text": "Plain, fine herbs, smoked. Firm Cheese, Cow, No Rind",
-        "created_at": "Blancs d'Arcadie (Les)",
+        "created_at": "Les Blancs d'Arcadie, New Brunswick",
+        "flavour": "Plain, fine herbs, smoked.",
+        "characteristics": "",
+        "type": "Firm cheese. Cow. No rind."
       }
     },
     {
@@ -157,10 +175,12 @@ var cheese =
       },
       "type": "Feature",
       "properties": {
-        "name": "Peppercorn (Blancs d'Arcadie)",
+        "name": "Peppercorn",
         "url": "http://www.lesblancsdarcadie.com.en.html",
-        "text": "Peppercorn, plain, garlic. Soft Cheese, Cow and Goat, ",
-        "created_at": "Blancs d'Arcadie (Les)",
+        "created_at": "Les Blancs d'Arcadie, New Brunswick",
+        "flavour": "Peppercorn, plain, garlic.",
+        "characteristics": "",
+        "type": "Soft cheese. Cow and goat."
       }
     },
     {
@@ -175,8 +195,10 @@ var cheese =
       "properties": {
         "name": "Blue Velvet",
         "url": "http://www.carmelisgoatcheese.com",
-        "text": "Sharp. Creamy Veined Cheeses, Goat, ",
-        "created_at": "Carmelis Goat Cheese",
+        "created_at": "Carmelis Goat Cheese, British Columbia",
+        "flavour": "Sharp.",
+        "characteristics": "Creamy.",
+        "type": "Veined cheese. Goat."
       }
     },
     {
@@ -191,8 +213,10 @@ var cheese =
       "properties": {
         "name": "Misty",
         "url": "http://www.carmelisgoatcheese.com",
-        "text": "Covered with ash Soft Cheese, Goat, ",
-        "created_at": "Carmelis Goat Cheese",
+        "created_at": "Carmelis Goat Cheese, British Columbia",
+        "flavour": "",
+        "characteristics": "Covered with ash.",
+        "type": "Soft cheese. Goat."
       }
     },
     {
@@ -207,8 +231,10 @@ var cheese =
       "properties": {
         "name": "Heavenly",
         "url": "http://www.carmelisgoatcheese.com",
-        "text": "Soft Cheese, Goat, ",
-        "created_at": "Carmelis Goat Cheese",
+        "created_at": "Carmelis Goat Cheese, British Columbia",
+        "flavour": "",
+        "characteristics": "",
+        "type": "Soft cheese. Goat."
       }
     },
     {
@@ -223,8 +249,10 @@ var cheese =
       "properties": {
         "name": "Moonlight",
         "url": "http://www.carmelisgoatcheese.com",
-        "text": "Aged on grape leaf Soft Cheese, Goat, ",
-        "created_at": "Carmelis Goat Cheese",
+        "created_at": "Carmelis Goat Cheese, British Columbia",
+        "flavour": "",
+        "characteristics": "Aged on grape leaf.",
+        "type": "Soft cheese. Goat."
       }
     },
     {
@@ -237,10 +265,12 @@ var cheese =
       },
       "type": "Feature",
       "properties": {
-        "name": "Picollo, Picollo",
+        "name": "Picollo",
         "url": "http://www.carmelisgoatcheese.com",
-        "text": "Mushroom flavour. Soft Cheese, Goat, ",
-        "created_at": "Carmelis Goat Cheese",
+        "created_at": "Carmelis Goat Cheese, British Columbia",
+        "flavour": "Mushroom flavour.",
+        "characteristics": "",
+        "type": "Soft cheese. Goat."
       }
     },
     {
@@ -253,10 +283,12 @@ var cheese =
       },
       "type": "Feature",
       "properties": {
-        "name": "Chabichou, Chabichou",
+        "name": "Chabichou",
         "url": "http://www.carmelisgoatcheese.com",
-        "text": "Firm Cheese, Goat, ",
-        "created_at": "Carmelis Goat Cheese",
+        "created_at": "Carmelis Goat Cheese, British Columbia",
+        "flavour": "",
+        "characteristics": "",
+        "type": "Firm cheese. Goat."
       }
     },
     {
@@ -271,8 +303,10 @@ var cheese =
       "properties": {
         "name": "Chevry",
         "url": "http://www.carmelisgoatcheese.com",
-        "text": "Plain, Dill and Onion, Provence Herbs. Creamy Fresh Cheese, Goat, ",
-        "created_at": "Carmelis Goat Cheese",
+        "created_at": "Carmelis Goat Cheese, British Columbia",
+        "flavour": "Plain, Dill and Onion, Provence Herbs.",
+        "characteristics": "Creamy.",
+        "type": "Fresh cheese. Goat."
       }
     },
     {
@@ -285,10 +319,12 @@ var cheese =
       },
       "type": "Feature",
       "properties": {
-        "name": "Feta (Carmelis)",
+        "name": "Feta",
         "url": "http://www.carmelisgoatcheese.com",
-        "text": "Soft Cheese, Goat, No Rind",
-        "created_at": "Carmelis Goat Cheese",
+        "created_at": "Carmelis Goat Cheese, British Columbia",
+        "flavour": "",
+        "characteristics": "",
+        "type": "Soft cheese. Goat. No rind."
       }
     },
     {
@@ -301,10 +337,12 @@ var cheese =
       },
       "type": "Feature",
       "properties": {
-        "name": "Carmel, Carmel",
+        "name": "Carmel",
         "url": "http://www.carmelisgoatcheese.com",
-        "text": "Comparable to an aged Cheddar/Parmesan Hard Cheese, Goat, ",
-        "created_at": "Carmelis Goat Cheese",
+        "created_at": "Carmelis Goat Cheese, British Columbia",
+        "flavour": "",
+        "characteristics": "Comparable to an aged Cheddar/Parmesan.",
+        "type": "Hard cheese. Goat."
       }
     },
     {
@@ -319,8 +357,10 @@ var cheese =
       "properties": {
         "name": "Lior",
         "url": "http://www.carmelisgoatcheese.com",
-        "text": "Comparable to Asiago and Manchego Hard Cheese, Goat, ",
-        "created_at": "Carmelis Goat Cheese",
+        "created_at": "Carmelis Goat Cheese, British Columbia",
+        "flavour": "",
+        "characteristics": "Comparable to Asiago and Manchego.",
+        "type": "Hard cheese. Goat."
       }
     },
     {
@@ -335,8 +375,10 @@ var cheese =
       "properties": {
         "name": "Lior Special Edition",
         "url": "http://www.carmelisgoatcheese.com",
-        "text": "Riddled with whole peppercorn and surrounded by bay leaves Hard Cheese, Goat, ",
-        "created_at": "Carmelis Goat Cheese",
+        "created_at": "Carmelis Goat Cheese, British Columbia",
+        "flavour": "",
+        "characteristics": "Riddled with whole peppercorn and surrounded by bay leaves.",
+        "type": "Hard cheese. Goat."
       }
     },
     {
@@ -351,8 +393,10 @@ var cheese =
       "properties": {
         "name": "Vintage",
         "url": "http://www.carmelisgoatcheese.com",
-        "text": "Soaked for five days in Pinot Noir wine Firm Cheese, Goat, ",
-        "created_at": "Carmelis Goat Cheese",
+        "created_at": "Carmelis Goat Cheese, British Columbia",
+        "flavour": "",
+        "characteristics": "Soaked for five days in Pinot Noir wine.",
+        "type": "Firm cheese. Goat."
       }
     },
     {
@@ -367,8 +411,10 @@ var cheese =
       "properties": {
         "name": "Tuscany",
         "url": "http://www.carmelisgoatcheese.com",
-        "text": "Plain ou smoked. Comparable to Swiss, Provolone and Mozzarella cheeses Firm Cheese, Goat, ",
-        "created_at": "Carmelis Goat Cheese",
+        "created_at": "Carmelis Goat Cheese, British Columbia",
+        "flavour": "Plain ou smoked.",
+        "characteristics": "Comparable to Swiss, Provolone and Mozzarella cheeses.",
+        "type": "Firm cheese. Goat."
       }
     },
     {
@@ -383,8 +429,10 @@ var cheese =
       "properties": {
         "name": "Goatgonzola",
         "url": "http://www.carmelisgoatcheese.com",
-        "text": "Veined Cheeses, Goat, ",
-        "created_at": "Carmelis Goat Cheese",
+        "created_at": "Carmelis Goat Cheese, British Columbia",
+        "flavour": "",
+        "characteristics": "",
+        "type": "Veined cheese. Goat."
       }
     },
     {
@@ -397,10 +445,12 @@ var cheese =
       },
       "type": "Feature",
       "properties": {
-        "name": "Mozzarella (D. Dutchmen Dairy)",
+        "name": "Mozzarella",
         "url": "http://www.dutchmendairy.ca",
-        "text": "Partly Skimmed Semi-soft Cheese, Cow, No Rind",
-        "created_at": "D. Dutchmen Dairy",
+        "created_at": "D. Dutchmen Dairy, British Columbia",
+        "flavour": "",
+        "characteristics": "Partly Skimmed.",
+        "type": "Semi-soft cheese. Cow. No rind."
       }
     },
     {
@@ -413,10 +463,12 @@ var cheese =
       },
       "type": "Feature",
       "properties": {
-        "name": "Cheddar (D. Dutchmen Dairy)",
+        "name": "Cheddar",
         "url": "http://www.dutchmendairy.ca",
-        "text": "Mild, Medium, Aged, spiced. Firm Cheese, Cow, No Rind",
-        "created_at": "D. Dutchmen Dairy",
+        "created_at": "D. Dutchmen Dairy, British Columbia",
+        "flavour": "Mild, Medium, Aged, spiced.",
+        "characteristics": "",
+        "type": "Firm cheese. Cow. No rind."
       }
     },
     {
@@ -429,10 +481,12 @@ var cheese =
       },
       "type": "Feature",
       "properties": {
-        "name": "Monterey Jack (D. Dutchmen Dairy)",
+        "name": "Monterey Jack",
         "url": "http://www.dutchmendairy.ca",
-        "text": "Plain or Jalapeno. Firm Cheese, Cow, No Rind",
-        "created_at": "D. Dutchmen Dairy",
+        "created_at": "D. Dutchmen Dairy, British Columbia",
+        "flavour": "Plain or Jalapeno.",
+        "characteristics": "",
+        "type": "Firm cheese. Cow. No rind."
       }
     },
     {
@@ -445,10 +499,12 @@ var cheese =
       },
       "type": "Feature",
       "properties": {
-        "name": "Kunik, Kunik",
-        "url": "",
-        "text": "Rich. Surface-ripened, white mold Soft Cheese, Cow and Goat, Bloomy Rind",
-        "created_at": "Domaine de Courval",
+        "name": "Kunik",
+        "url": "http://www.produitsdelaferme.com/",
+        "created_at": "Domaine de Courval, Quebec",
+        "flavour": "Rich.",
+        "characteristics": "Surface-ripened, white mold.",
+        "type": "Soft cheese. Cow and goat. Bloomy rind."
       }
     },
     {
@@ -462,9 +518,11 @@ var cheese =
       "type": "Feature",
       "properties": {
         "name": "Perle",
-        "url": "",
-        "text": "Pungent. Soft cheese, surface ripened, white mold Soft Cheese, Goat, Bloomy Rind",
-        "created_at": "Domaine de Courval",
+        "url": "http://www.produitsdelaferme.com/",
+        "created_at": "Domaine de Courval, Quebec",
+        "flavour": "Pungent.",
+        "characteristics": "Soft cheese, surface ripened, white mold.",
+        "type": "Soft cheese. Goat. Bloomy rind."
       }
     },
     {
@@ -479,8 +537,10 @@ var cheese =
       "properties": {
         "name": "Cheddar frais Morin",
         "url": "",
-        "text": "Cheddar cheese curds or blocks Firm Cheese, Cow, No Rind",
-        "created_at": "Ferme Morin",
+        "created_at": "Ferme Morin, Quebec",
+        "flavour": "",
+        "characteristics": "Cheddar cheese curds or blocks.",
+        "type": "Firm cheese. Cow. No rind."
       }
     },
     {
@@ -488,15 +548,17 @@ var cheese =
         "type": "Point",
         "coordinates": [
           -76.904293,
-          44.053462
+          44.05505
         ]
       },
       "type": "Feature",
       "properties": {
-        "name": "Hand Rolled Chevre Logs",
+        "name": "Hand Rolled Chevre Log",
         "url": "http://www.fifthtown.ca",
-        "text": "Mildly acidic, nutty tones. Fresh Cheese, Goat, ",
-        "created_at": "Fifth Town Artisan Cheese Company",
+        "created_at": "Fifth Town Artisan Cheese Company, Ontario",
+        "flavour": "Mildly acidic, nutty tones.",
+        "characteristics": "",
+        "type": "Fresh cheese. Goat."
       }
     },
     {
@@ -504,15 +566,17 @@ var cheese =
         "type": "Point",
         "coordinates": [
           -76.904293,
-          44.053462
+          44.05505
         ]
       },
       "type": "Feature",
       "properties": {
         "name": "County Quark",
         "url": "http://www.fifthtown.ca",
-        "text": "Original or County Honey. German style cheese Fresh Cheese, Ewe and Goat, ",
-        "created_at": "Fifth Town Artisan Cheese Company",
+        "created_at": "Fifth Town Artisan Cheese Company, Ontario",
+        "flavour": "Original or County Honey.",
+        "characteristics": "German style cheese.",
+        "type": "Fresh cheese. Ewe and goat."
       }
     },
     {
@@ -520,15 +584,17 @@ var cheese =
         "type": "Point",
         "coordinates": [
           -76.904293,
-          44.053462
+          44.05505
         ]
       },
       "type": "Feature",
       "properties": {
-        "name": "Bedda Fedda, Bedda Fedda",
+        "name": "Bedda Fedda",
         "url": "http://www.fifthtown.ca",
-        "text": "Made with organic rennet Fresh Cheese, Ewe, ",
-        "created_at": "Fifth Town Artisan Cheese Company",
+        "created_at": "Fifth Town Artisan Cheese Company, Ontario",
+        "flavour": "",
+        "characteristics": "Made with organic rennet.",
+        "type": "Fresh cheese. Ewe."
       }
     },
     {
@@ -536,15 +602,17 @@ var cheese =
         "type": "Point",
         "coordinates": [
           -76.904293,
-          44.053462
+          44.05505
         ]
       },
       "type": "Feature",
       "properties": {
-        "name": "Ricotta (Fifth Town)",
+        "name": "Ricotta",
         "url": "http://www.fifthtown.ca",
-        "text": "Fresh Cheese, Cow, No Rind",
-        "created_at": "Fifth Town Artisan Cheese Company",
+        "created_at": "Fifth Town Artisan Cheese Company, Ontario",
+        "flavour": "",
+        "characteristics": "",
+        "type": "Fresh cheese. Cow. No rind."
       }
     },
     {
@@ -552,15 +620,17 @@ var cheese =
         "type": "Point",
         "coordinates": [
           -76.904293,
-          44.053462
+          44.05505
         ]
       },
       "type": "Feature",
       "properties": {
         "name": "Operetta",
         "url": "http://www.fifthtown.ca",
-        "text": "Slightly fruity aroma with fresh lactic flavours.. Crottin style cheese.  Made with organic rennet. Soft Cheese, Ewe, ",
-        "created_at": "Fifth Town Artisan Cheese Company",
+        "created_at": "Fifth Town Artisan Cheese Company, Ontario",
+        "flavour": "Slightly fruity aroma with fresh lactic flavours.",
+        "characteristics": "Crottin style cheese. Made with organic rennet.",
+        "type": "Soft cheese. Ewe."
       }
     },
     {
@@ -568,15 +638,17 @@ var cheese =
         "type": "Point",
         "coordinates": [
           -76.904293,
-          44.053462
+          44.05505
         ]
       },
       "type": "Feature",
       "properties": {
         "name": "Lost Lake",
         "url": "http://www.fifthtown.ca",
-        "text": "Yeasty aromas with pronounced mushroom notes.. Made with goat's or sheep's milk and organic rennet. Soft Cheese, Ewe and Goat, ",
-        "created_at": "Fifth Town Artisan Cheese Company",
+        "created_at": "Fifth Town Artisan Cheese Company, Ontario",
+        "flavour": "Yeasty aromas with pronounced mushroom notes.",
+        "characteristics": "Made with goat's or sheep's milk and organic rennet.",
+        "type": "Soft cheese. Ewe and goat."
       }
     },
     {
@@ -584,15 +656,17 @@ var cheese =
         "type": "Point",
         "coordinates": [
           -76.904293,
-          44.053462
+          44.05505
         ]
       },
       "type": "Feature",
       "properties": {
         "name": "Nettles Gone Wild",
         "url": "http://www.fifthtown.ca",
-        "text": "Earthy flavour.. Rolled in nettle leaves. Soft Cheese, Goat, Bloomy Rind",
-        "created_at": "Fifth Town Artisan Cheese Company",
+        "created_at": "Fifth Town Artisan Cheese Company, Ontario",
+        "flavour": "Earthy flavour.",
+        "characteristics": "Rolled in nettle leaves.",
+        "type": "Soft cheese. Goat. Bloomy rind."
       }
     },
     {
@@ -600,15 +674,17 @@ var cheese =
         "type": "Point",
         "coordinates": [
           -76.904293,
-          44.053462
+          44.05505
         ]
       },
       "type": "Feature",
       "properties": {
         "name": "Lemon Fetish",
         "url": "http://www.fifthtown.ca",
-        "text": "Fresh lemon.. Soft Cheese, Ewe, Brushed Rind",
-        "created_at": "Fifth Town Artisan Cheese Company",
+        "created_at": "Fifth Town Artisan Cheese Company, Ontario",
+        "flavour": "Fresh lemon.",
+        "characteristics": "",
+        "type": "Soft cheese. Ewe. Brushed rind."
       }
     },
     {
@@ -616,15 +692,17 @@ var cheese =
         "type": "Point",
         "coordinates": [
           -76.904293,
-          44.053462
+          44.05505
         ]
       },
       "type": "Feature",
       "properties": {
         "name": "Counting Sheep",
         "url": "http://www.fifthtown.ca",
-        "text": "Herbed flavour. Lightly pressed. Soft Cheese, Ewe, Bloomy Rind",
-        "created_at": "Fifth Town Artisan Cheese Company",
+        "created_at": "Fifth Town Artisan Cheese Company, Ontario",
+        "flavour": "Herbed flavour.",
+        "characteristics": "Lightly pressed.",
+        "type": "Soft cheese. Ewe. Bloomy rind."
       }
     },
     {
@@ -632,15 +710,17 @@ var cheese =
         "type": "Point",
         "coordinates": [
           -76.904293,
-          44.053462
+          44.05505
         ]
       },
       "type": "Feature",
       "properties": {
         "name": "Cape Vessey",
         "url": "http://www.fifthtown.ca",
-        "text": "Apple.. Cooked, pressed cheese. Soft Cheese, Goat, Washed Rind",
-        "created_at": "Fifth Town Artisan Cheese Company",
+        "created_at": "Fifth Town Artisan Cheese Company, Ontario",
+        "flavour": "Apple.",
+        "characteristics": "Cooked, pressed cheese.",
+        "type": "Soft cheese. Goat. Washed rind."
       }
     },
     {
@@ -648,15 +728,17 @@ var cheese =
         "type": "Point",
         "coordinates": [
           -76.904293,
-          44.053462
+          44.05505
         ]
       },
       "type": "Feature",
       "properties": {
         "name": "Bonnie & Floyd",
         "url": "http://www.fifthtown.ca",
-        "text": "Mild, cooked and pressed, washed rind. Soft Cheese, Ewe, Washed Rind",
-        "created_at": "Fifth Town Artisan Cheese Company",
+        "created_at": "Fifth Town Artisan Cheese Company, Ontario",
+        "flavour": "",
+        "characteristics": "Mild, cooked and pressed, washed rind.",
+        "type": "Soft cheese. Ewe. Washed rind."
       }
     },
     {
@@ -664,15 +746,17 @@ var cheese =
         "type": "Point",
         "coordinates": [
           -76.904293,
-          44.053462
+          44.05505
         ]
       },
       "type": "Feature",
       "properties": {
         "name": "Petal Luna",
         "url": "http://www.fifthtown.ca",
-        "text": "Grapeseed oil.. Lightly pressed.  Infused with calendula petals. Firm Cheese, Goat, Brushed Rind",
-        "created_at": "Fifth Town Artisan Cheese Company",
+        "created_at": "Fifth Town Artisan Cheese Company, Ontario",
+        "flavour": "Grapeseed oil.",
+        "characteristics": "Lightly pressed. Infused with calendula petals.",
+        "type": "Firm cheese. Goat. Brushed rind."
       }
     },
     {
@@ -680,15 +764,17 @@ var cheese =
         "type": "Point",
         "coordinates": [
           -76.904293,
-          44.053462
+          44.05505
         ]
       },
       "type": "Feature",
       "properties": {
         "name": "Lighthall Tomme",
         "url": "http://www.fifthtown.ca",
-        "text": "Tomme style cheese with natural rind. Firm Cheese, Goat, ",
-        "created_at": "Fifth Town Artisan Cheese Company",
+        "created_at": "Fifth Town Artisan Cheese Company, Ontario",
+        "flavour": "",
+        "characteristics": "Tomme style cheese with natural rind.",
+        "type": "Firm cheese. Goat."
       }
     },
     {
@@ -696,15 +782,17 @@ var cheese =
         "type": "Point",
         "coordinates": [
           -76.904293,
-          44.053462
+          44.05505
         ]
       },
       "type": "Feature",
       "properties": {
         "name": "I Wish",
         "url": "http://www.fifthtown.ca",
-        "text": "Firm Cheese, Ewe, ",
-        "created_at": "Fifth Town Artisan Cheese Company",
+        "created_at": "Fifth Town Artisan Cheese Company, Ontario",
+        "flavour": "",
+        "characteristics": "",
+        "type": "Firm cheese. Ewe."
       }
     },
     {
@@ -712,15 +800,17 @@ var cheese =
         "type": "Point",
         "coordinates": [
           -76.904293,
-          44.053462
+          44.05505
         ]
       },
       "type": "Feature",
       "properties": {
         "name": "Fellowship",
         "url": "http://www.fifthtown.ca",
-        "text": "Nutty, fruity flavour.. Firm Cheese, Ewe and Goat, Brushed Rind",
-        "created_at": "Fifth Town Artisan Cheese Company",
+        "created_at": "Fifth Town Artisan Cheese Company, Ontario",
+        "flavour": "Nutty, fruity flavour.",
+        "characteristics": "",
+        "type": "Firm cheese. Ewe and goat. Brushed rind."
       }
     },
     {
@@ -728,15 +818,17 @@ var cheese =
         "type": "Point",
         "coordinates": [
           -76.904293,
-          44.053462
+          44.05505
         ]
       },
       "type": "Feature",
       "properties": {
         "name": "Purple's A Must",
         "url": "http://www.fifthtown.ca",
-        "text": "Red grape must. Hard Cheese, Goat, ",
-        "created_at": "Fifth Town Artisan Cheese Company",
+        "created_at": "Fifth Town Artisan Cheese Company, Ontario",
+        "flavour": "Red grape must.",
+        "characteristics": "",
+        "type": "Hard cheese. Goat."
       }
     },
     {
@@ -749,10 +841,12 @@ var cheese =
       },
       "type": "Feature",
       "properties": {
-        "name": "Ecume des Rapides (L')",
-        "url": "",
-        "text": "Creamy spreadable cheese Soft Cheese, Goat, No Rind",
-        "created_at": "Fromagere Etcetera",
+        "name": "L'Ecume des Rapides",
+        "url": "https://plus.google.com/112348923432028991030/about?gl=ca&hl=en",
+        "created_at": "Fromagere Etcetera, Quebec",
+        "flavour": "",
+        "characteristics": "Creamy spreadable cheese.",
+        "type": "Soft cheese. Goat. No rind."
       }
     },
     {
@@ -765,10 +859,12 @@ var cheese =
       },
       "type": "Feature",
       "properties": {
-        "name": "Doux du Fort (Le)",
-        "url": "",
-        "text": "Fruity. Firm cheese, cooked Firm Cheese, Goat, ",
-        "created_at": "Fromagere Etcetera",
+        "name": "Le Doux du Fort",
+        "url": "https://plus.google.com/112348923432028991030/about?gl=ca&hl=en",
+        "created_at": "Fromagere Etcetera, Quebec",
+        "flavour": "Fruity.",
+        "characteristics": "Firm cheese, cooked.",
+        "type": "Firm cheese. Goat."
       }
     },
     {
@@ -781,10 +877,12 @@ var cheese =
       },
       "type": "Feature",
       "properties": {
-        "name": "Pompette (Le)",
-        "url": "",
-        "text": "Flavored with Michel Jodoin's apple Brandy. Fresh Cheese, Goat, No Rind",
-        "created_at": "Fromagere Etcetera",
+        "name": "Le Pompette",
+        "url": "https://plus.google.com/112348923432028991030/about?gl=ca&hl=en",
+        "created_at": "Fromagere Etcetera, Quebec",
+        "flavour": "Flavored with Michel Jodoin's apple Brandy.",
+        "characteristics": "",
+        "type": "Fresh cheese. Goat. No rind."
       }
     },
     {
@@ -798,9 +896,11 @@ var cheese =
       "type": "Feature",
       "properties": {
         "name": "Amourettes - Tomates sechees et basilic",
-        "url": "",
-        "text": "Unripened cheese Soft Cheese, Goat, No Rind",
-        "created_at": "Fromagere Etcetera",
+        "url": "https://plus.google.com/112348923432028991030/about?gl=ca&hl=en",
+        "created_at": "Fromagere Etcetera, Quebec",
+        "flavour": "",
+        "characteristics": "Unripened cheese.",
+        "type": "Soft cheese. Goat. No rind."
       }
     },
     {
@@ -814,9 +914,11 @@ var cheese =
       "type": "Feature",
       "properties": {
         "name": "Amourettes - Fines herbes",
-        "url": "",
-        "text": "Unripened cheese Soft Cheese, Goat, No Rind",
-        "created_at": "Fromagere Etcetera",
+        "url": "https://plus.google.com/112348923432028991030/about?gl=ca&hl=en",
+        "created_at": "Fromagere Etcetera, Quebec",
+        "flavour": "",
+        "characteristics": "Unripened cheese.",
+        "type": "Soft cheese. Goat. No rind."
       }
     },
     {
@@ -830,9 +932,11 @@ var cheese =
       "type": "Feature",
       "properties": {
         "name": "Dames de Chambly",
-        "url": "",
-        "text": "Fresh. Preserved in sunflower and olive oil Fresh Cheese, Goat, No Rind",
-        "created_at": "Fromagere Etcetera",
+        "url": "https://plus.google.com/112348923432028991030/about?gl=ca&hl=en",
+        "created_at": "Fromagere Etcetera, Quebec",
+        "flavour": "Fresh.",
+        "characteristics": "Preserved in sunflower and olive oil.",
+        "type": "Fresh cheese. Goat. No rind."
       }
     },
     {
@@ -846,9 +950,11 @@ var cheese =
       "type": "Feature",
       "properties": {
         "name": "Fontina de l'Abbaye",
-        "url": "",
-        "text": "Mild, slightly lactic and hazelnut flavour. Ivory-colored cheese, smoothand elastic texture, few holes Semi-soft Cheese, Cow, No Rind",
-        "created_at": "Fromagerie Abbaye de Saint-Benoit-du-Lac",
+        "url": "http://www.st-benoit-du-lac.com/fromages/fromagerie.html",
+        "created_at": "Fromagerie Abbaye de Saint-Benoit-du-Lac, Quebec",
+        "flavour": "Mild, slightly lactic and hazelnut flavour.",
+        "characteristics": "Ivory-colored cheese, smoothand elastic texture, few holes.",
+        "type": "Semi-soft cheese. Cow. No rind."
       }
     },
     {
@@ -862,9 +968,11 @@ var cheese =
       "type": "Feature",
       "properties": {
         "name": "Chevre-Noit Bleu de chevre",
-        "url": "",
-        "text": "Pronounced and becomes more pungent with age. When aged, its texture becomes rich and creamy. Veined Cheeses, Goat, ",
-        "created_at": "Fromagerie Abbaye de Saint-Benoit-du-Lac",
+        "url": "http://www.st-benoit-du-lac.com/fromages/fromagerie.html",
+        "created_at": "Fromagerie Abbaye de Saint-Benoit-du-Lac, Quebec",
+        "flavour": "Pronounced and becomes more pungent with age.",
+        "characteristics": "When aged, its texture becomes rich and creamy.",
+        "type": "Veined cheese. Goat."
       }
     },
     {
@@ -878,9 +986,11 @@ var cheese =
       "type": "Feature",
       "properties": {
         "name": "Chanoine",
-        "url": "",
-        "text": "Pronounced. Veined Cheeses, Ewe, ",
-        "created_at": "Fromagerie Abbaye de Saint-Benoit-du-Lac",
+        "url": "http://www.st-benoit-du-lac.com/fromages/fromagerie.html",
+        "created_at": "Fromagerie Abbaye de Saint-Benoit-du-Lac, Quebec",
+        "flavour": "Pronounced.",
+        "characteristics": "",
+        "type": "Veined cheese. Ewe."
       }
     },
     {
@@ -894,9 +1004,11 @@ var cheese =
       "type": "Feature",
       "properties": {
         "name": "Bleu Benedictin",
-        "url": "",
-        "text": "Creamy with a slight salty taste. Natural rind, surface ripened Veined Cheeses, Cow, No Rind",
-        "created_at": "Fromagerie Abbaye de Saint-Benoit-du-Lac",
+        "url": "http://www.st-benoit-du-lac.com/fromages/fromagerie.html",
+        "created_at": "Fromagerie Abbaye de Saint-Benoit-du-Lac, Quebec",
+        "flavour": "Creamy with a slight salty taste.",
+        "characteristics": "Natural rind, surface ripened.",
+        "type": "Veined cheese. Cow. No rind."
       }
     },
     {
@@ -909,10 +1021,12 @@ var cheese =
       },
       "type": "Feature",
       "properties": {
-        "name": "Memphre (Le)",
-        "url": "",
-        "text": "Typical taste, very agreable in the mouth, neither too mild or too pronounced. No rind, smooth and unctuous Firm Cheese, Ewe, No Rind",
-        "created_at": "Fromagerie Abbaye de Saint-Benoit-du-Lac",
+        "name": "Le Memphre",
+        "url": "http://www.st-benoit-du-lac.com/fromages/fromagerie.html",
+        "created_at": "Fromagerie Abbaye de Saint-Benoit-du-Lac, Quebec",
+        "flavour": "Typical taste, very agreable in the mouth, neither too mild or too pronounced.",
+        "characteristics": "No rind, smooth and unctuous.",
+        "type": "Firm cheese. Ewe. No rind."
       }
     },
     {
@@ -926,9 +1040,11 @@ var cheese =
       "type": "Feature",
       "properties": {
         "name": "Ermite",
-        "url": "",
-        "text": "Strong taste typical of certain blue cheeses, with a long finish. Unpressed, uncooked cheese, interior-ripened with Penicilium roqueforti Veined Cheeses, Cow, ",
-        "created_at": "Fromagerie Abbaye de Saint-Benoit-du-Lac",
+        "url": "http://www.st-benoit-du-lac.com/fromages/fromagerie.html",
+        "created_at": "Fromagerie Abbaye de Saint-Benoit-du-Lac, Quebec",
+        "flavour": "Strong taste typical of certain blue cheeses, with a long finish.",
+        "characteristics": "Unpressed, uncooked cheese, interior-ripened with Penicilium roqueforti.",
+        "type": "Veined cheese. Cow."
       }
     },
     {
@@ -942,9 +1058,11 @@ var cheese =
       "type": "Feature",
       "properties": {
         "name": "Frere Jacques",
-        "url": "",
-        "text": "Mild and hazelnutty. Pressed cheese, natural rind and interior-ripened, dry texture, big eyes Firm Cheese, Cow, ",
-        "created_at": "Fromagerie Abbaye de Saint-Benoit-du-Lac",
+        "url": "http://www.st-benoit-du-lac.com/fromages/fromagerie.html",
+        "created_at": "Fromagerie Abbaye de Saint-Benoit-du-Lac, Quebec",
+        "flavour": "Mild and hazelnutty.",
+        "characteristics": "Pressed cheese, natural rind and interior-ripened, dry texture, big eyes.",
+        "type": "Firm cheese. Cow."
       }
     },
     {
@@ -957,10 +1075,12 @@ var cheese =
       },
       "type": "Feature",
       "properties": {
-        "name": "Moine (Le)",
-        "url": "",
-        "text": "Sharp, hazelnutty. Cheese with irregular holes, natural rind Firm Cheese, Cow, ",
-        "created_at": "Fromagerie Abbaye de Saint-Benoit-du-Lac",
+        "name": "Le Moine",
+        "url": "http://www.st-benoit-du-lac.com/fromages/fromagerie.html",
+        "created_at": "Fromagerie Abbaye de Saint-Benoit-du-Lac, Quebec",
+        "flavour": "Sharp, hazelnutty.",
+        "characteristics": "Cheese with irregular holes, natural rind.",
+        "type": "Firm cheese. Cow."
       }
     },
     {
@@ -974,9 +1094,11 @@ var cheese =
       "type": "Feature",
       "properties": {
         "name": "Mont Saint-Benoit",
-        "url": "",
-        "text": "Mild and hazelnut flavour. Interior ripened Semi-soft Cheese, Cow, No Rind",
-        "created_at": "Fromagerie Abbaye de Saint-Benoit-du-Lac",
+        "url": "http://www.st-benoit-du-lac.com/fromages/fromagerie.html",
+        "created_at": "Fromagerie Abbaye de Saint-Benoit-du-Lac, Quebec",
+        "flavour": "Mild and hazelnut flavour.",
+        "characteristics": "Interior ripened.",
+        "type": "Semi-soft cheese. Cow. No rind."
       }
     },
     {
@@ -990,9 +1112,11 @@ var cheese =
       "type": "Feature",
       "properties": {
         "name": "Ricotta de chevre",
-        "url": "",
-        "text": "Fresh, acidulous.. White and damp Fresh Cheese, Goat, No Rind",
-        "created_at": "Fromagerie Abbaye de Saint-Benoit-du-Lac",
+        "url": "http://www.st-benoit-du-lac.com/fromages/fromagerie.html",
+        "created_at": "Fromagerie Abbaye de Saint-Benoit-du-Lac, Quebec",
+        "flavour": "Fresh, acidulous.",
+        "characteristics": "White and damp.",
+        "type": "Fresh cheese. Goat. No rind."
       }
     },
     {
@@ -1006,9 +1130,11 @@ var cheese =
       "type": "Feature",
       "properties": {
         "name": "Ricotta Saint-Benoit",
-        "url": "",
-        "text": "Fresh, mild, slightly acidulous. White and damp Fresh Cheese, Cow, No Rind",
-        "created_at": "Fromagerie Abbaye de Saint-Benoit-du-Lac",
+        "url": "http://www.st-benoit-du-lac.com/fromages/fromagerie.html",
+        "created_at": "Fromagerie Abbaye de Saint-Benoit-du-Lac, Quebec",
+        "flavour": "Fresh, mild, slightly acidulous.",
+        "characteristics": "White and damp.",
+        "type": "Fresh cheese. Cow. No rind."
       }
     },
     {
@@ -1021,10 +1147,12 @@ var cheese =
       },
       "type": "Feature",
       "properties": {
-        "name": "Saint-Augustin (Le)",
-        "url": "",
-        "text": "Mild and hazelnutty. Orange-colored, elastic texture Firm Cheese, Cow, No Rind",
-        "created_at": "Fromagerie Abbaye de Saint-Benoit-du-Lac",
+        "name": "Le Saint-Augustin",
+        "url": "http://www.st-benoit-du-lac.com/fromages/fromagerie.html",
+        "created_at": "Fromagerie Abbaye de Saint-Benoit-du-Lac, Quebec",
+        "flavour": "Mild and hazelnutty.",
+        "characteristics": "Orange-colored, elastic texture.",
+        "type": "Firm cheese. Cow. No rind."
       }
     },
     {
@@ -1037,10 +1165,12 @@ var cheese =
       },
       "type": "Feature",
       "properties": {
-        "name": "Archange (L')",
-        "url": "",
-        "text": "Mild. Pressed, with irregular holes, no rind Firm Cheese, Goat, No Rind",
-        "created_at": "Fromagerie Abbaye de Saint-Benoit-du-Lac",
+        "name": "L'Archange",
+        "url": "http://www.st-benoit-du-lac.com/fromages/fromagerie.html",
+        "created_at": "Fromagerie Abbaye de Saint-Benoit-du-Lac, Quebec",
+        "flavour": "Mild.",
+        "characteristics": "Pressed, with irregular holes, no rind.",
+        "type": "Firm cheese. Goat. No rind."
       }
     },
     {
@@ -1053,10 +1183,12 @@ var cheese =
       },
       "type": "Feature",
       "properties": {
-        "name": "Cheddar (Fromagerie Boivin)",
-        "url": "",
-        "text": "Available; medium, strong, extra strong, in block, curds, BBQ. Firm Cheese, Cow, No Rind",
-        "created_at": "Fromagerie Boivin",
+        "name": "Cheddar",
+        "url": "http://www.fromagerieboivin.com/",
+        "created_at": "Fromagerie Boivin, Quebec",
+        "flavour": "Available; medium, strong, extra strong, in block, curds, BBQ.",
+        "characteristics": "",
+        "type": "Firm cheese. Cow. No rind."
       }
     },
     {
@@ -1069,10 +1201,12 @@ var cheese =
       },
       "type": "Feature",
       "properties": {
-        "name": "Petit Sagueneen (Le)",
-        "url": "",
-        "text": "Firm Cheese, Cow, No Rind",
-        "created_at": "Fromagerie Boivin",
+        "name": "Le Petit Sagueneen",
+        "url": "http://www.fromagerieboivin.com/",
+        "created_at": "Fromagerie Boivin, Quebec",
+        "flavour": "",
+        "characteristics": "",
+        "type": "Firm cheese. Cow. No rind."
       }
     },
     {
@@ -1085,10 +1219,12 @@ var cheese =
       },
       "type": "Feature",
       "properties": {
-        "name": "Tortillons (Les) (Fromagerie Boivin)",
-        "url": "",
-        "text": "Plain or BBQ. Firm Cheese, Cow, No Rind",
-        "created_at": "Fromagerie Boivin",
+        "name": "Les Tortillons",
+        "url": "http://www.fromagerieboivin.com/",
+        "created_at": "Fromagerie Boivin, Quebec",
+        "flavour": "Plain or BBQ.",
+        "characteristics": "",
+        "type": "Firm cheese. Cow. No rind."
       }
     },
     {
@@ -1101,10 +1237,12 @@ var cheese =
       },
       "type": "Feature",
       "properties": {
-        "name": "Cheddar sans sel (Fromagerie Boivin)",
-        "url": "",
-        "text": "Firm Cheese, Cow, No Rind",
-        "created_at": "Fromagerie Boivin",
+        "name": "Cheddar sans sel",
+        "url": "http://www.fromagerieboivin.com/",
+        "created_at": "Fromagerie Boivin, Quebec",
+        "flavour": "",
+        "characteristics": "",
+        "type": "Firm cheese. Cow. No rind."
       }
     },
     {
@@ -1118,9 +1256,11 @@ var cheese =
       "type": "Feature",
       "properties": {
         "name": "Annobli",
-        "url": "",
-        "text": "Taste of butter and cooked cheese, slightly spicy. Roasting cheese Semi-soft Cheese, Cow, ",
-        "created_at": "Fromagerie Boivin",
+        "url": "http://www.fromagerieboivin.com/",
+        "created_at": "Fromagerie Boivin, Quebec",
+        "flavour": "Taste of butter and cooked cheese, slightly spicy.",
+        "characteristics": "Roasting cheese.",
+        "type": "Semi-soft cheese. Cow."
       }
     },
     {
@@ -1133,10 +1273,12 @@ var cheese =
       },
       "type": "Feature",
       "properties": {
-        "name": "Monterey Jack (Fromagerie Boivin)",
-        "url": "",
-        "text": "Supple white cheese Semi-soft Cheese, Cow, No Rind",
-        "created_at": "Fromagerie Boivin",
+        "name": "Monterey Jack",
+        "url": "http://www.fromagerieboivin.com/",
+        "created_at": "Fromagerie Boivin, Quebec",
+        "flavour": "",
+        "characteristics": "Supple white cheese.",
+        "type": "Semi-soft cheese. Cow. No rind."
       }
     },
     {
@@ -1149,10 +1291,12 @@ var cheese =
       },
       "type": "Feature",
       "properties": {
-        "name": "Brise des Vignerons (La)",
-        "url": "",
-        "text": "Mushroomy and buttery. Sometimes a chalky center Soft Cheese, Cow, Bloomy Rind",
-        "created_at": "Fromagerie des Cantons",
+        "name": "La Brise des Vignerons",
+        "url": "https://www.fromagesdici.com/repertoire/fromageries/fromagerie-des-cantons",
+        "created_at": "Fromagerie des Cantons, Quebec",
+        "flavour": "Mushroomy and buttery.",
+        "characteristics": "Sometimes a chalky center.",
+        "type": "Soft cheese. Cow. Bloomy rind."
       }
     },
     {
@@ -1165,10 +1309,12 @@ var cheese =
       },
       "type": "Feature",
       "properties": {
-        "name": "Zephyr (Le)",
-        "url": "",
-        "text": "Fruity and hazelnutty. Light yellow rind Firm Cheese, Cow, Washed Rind",
-        "created_at": "Fromagerie des Cantons",
+        "name": "Le Zephyr",
+        "url": "https://www.fromagesdici.com/repertoire/fromageries/fromagerie-des-cantons",
+        "created_at": "Fromagerie des Cantons, Quebec",
+        "flavour": "Fruity and hazelnutty.",
+        "characteristics": "Light yellow rind.",
+        "type": "Firm cheese. Cow. Washed rind."
       }
     },
     {
@@ -1181,10 +1327,12 @@ var cheese =
       },
       "type": "Feature",
       "properties": {
-        "name": "Grand 2 (Le)",
-        "url": "",
-        "text": "Slight goaty taste counterbalanced with cow's milk taste. Firm and cooked Firm Cheese, Cow and Goat, Washed Rind",
-        "created_at": "Fromagerie des Grondines",
+        "name": "Le Grand 2",
+        "url": "http://www.fromageriedesgrondines.com/",
+        "created_at": "Fromagerie des Grondines, Quebec",
+        "flavour": "Slight goaty taste counterbalanced with cow's milk taste.",
+        "characteristics": "Firm and cooked.",
+        "type": "Firm cheese. Cow and goat. Washed rind."
       }
     },
     {
@@ -1197,10 +1345,12 @@ var cheese =
       },
       "type": "Feature",
       "properties": {
-        "name": "Grondines (Les)",
-        "url": "",
-        "text": "Slightly hazelnutty. Amber-colored washed rind Firm Cheese, Cow, Washed Rind",
-        "created_at": "Fromagerie des Grondines",
+        "name": "Les Grondines",
+        "url": "http://www.fromageriedesgrondines.com/",
+        "created_at": "Fromagerie des Grondines, Quebec",
+        "flavour": "Slightly hazelnutty.",
+        "characteristics": "Amber-colored washed rind.",
+        "type": "Firm cheese. Cow. Washed rind."
       }
     },
     {
@@ -1215,8 +1365,10 @@ var cheese =
       "properties": {
         "name": "San Pareil",
         "url": "http://www.cheeseworks.ca",
-        "text": "Soft Cheese, Cow, ",
-        "created_at": "Little Qualicum Cheeseworks",
+        "created_at": "Little Qualicum Cheeseworks, British Columbia",
+        "flavour": "",
+        "characteristics": "",
+        "type": "Soft cheese. Cow."
       }
     },
     {
@@ -1229,10 +1381,12 @@ var cheese =
       },
       "type": "Feature",
       "properties": {
-        "name": "Caerphilly, Caerphilly",
+        "name": "Caerphilly",
         "url": "http://www.cheeseworks.ca",
-        "text": "Welsh-style cheese Hard Cheese, Cow, ",
-        "created_at": "Little Qualicum Cheeseworks",
+        "created_at": "Little Qualicum Cheeseworks, British Columbia",
+        "flavour": "",
+        "characteristics": "Welsh-style cheese.",
+        "type": "Hard cheese. Cow."
       }
     },
     {
@@ -1247,8 +1401,10 @@ var cheese =
       "properties": {
         "name": "Monterey Jill",
         "url": "http://www.cheeseworks.ca",
-        "text": "Mild tasting. Artisan Cheese Firm Cheese, Cow, No Rind",
-        "created_at": "Little Qualicum Cheeseworks",
+        "created_at": "Little Qualicum Cheeseworks, British Columbia",
+        "flavour": "Mild tasting.",
+        "characteristics": "Artisan Cheese.",
+        "type": "Firm cheese. Cow. No rind."
       }
     },
     {
@@ -1263,8 +1419,10 @@ var cheese =
       "properties": {
         "name": "Qualicum Spice",
         "url": "http://www.cheeseworks.ca",
-        "text": "Onions, garlic, papika and sweet red pepper flakes.. Artisinal cheese Hard Cheese, Cow, ",
-        "created_at": "Little Qualicum Cheeseworks",
+        "created_at": "Little Qualicum Cheeseworks, British Columbia",
+        "flavour": "Onions, garlic, papika and sweet red pepper flakes.",
+        "characteristics": "Artisinal cheese.",
+        "type": "Hard cheese. Cow."
       }
     },
     {
@@ -1279,8 +1437,10 @@ var cheese =
       "properties": {
         "name": "Little Qualicum Feta",
         "url": "http://www.cheeseworks.ca",
-        "text": "Plain or marinated in oil, garlic, sun-dried tomatoes and rosemary. Soft Cheese, Cow, No Rind",
-        "created_at": "Little Qualicum Cheeseworks",
+        "created_at": "Little Qualicum Cheeseworks, British Columbia",
+        "flavour": "Plain or marinated in oil, garlic, sun-dried tomatoes and rosemary.",
+        "characteristics": "",
+        "type": "Soft cheese. Cow. No rind."
       }
     },
     {
@@ -1293,10 +1453,12 @@ var cheese =
       },
       "type": "Feature",
       "properties": {
-        "name": "Raclette (Little Qualicum)",
+        "name": "Raclette",
         "url": "http://www.cheeseworks.ca",
-        "text": "Artisanal cheese Hard Cheese, Cow, ",
-        "created_at": "Little Qualicum Cheeseworks",
+        "created_at": "Little Qualicum Cheeseworks, British Columbia",
+        "flavour": "",
+        "characteristics": "Artisanal cheese.",
+        "type": "Hard cheese. Cow."
       }
     },
     {
@@ -1311,8 +1473,10 @@ var cheese =
       "properties": {
         "name": "Rathtrevor",
         "url": "http://www.cheeseworks.ca",
-        "text": "Hints of roasted nuts. Artisan Swiss-style Cheese Firm Cheese, Cow, ",
-        "created_at": "Little Qualicum Cheeseworks",
+        "created_at": "Little Qualicum Cheeseworks, British Columbia",
+        "flavour": "Hints of roasted nuts.",
+        "characteristics": "Artisan Swiss-style Cheese.",
+        "type": "Firm cheese. Cow."
       }
     },
     {
@@ -1327,8 +1491,10 @@ var cheese =
       "properties": {
         "name": "Island Bries",
         "url": "http://www.cheeseworks.ca",
-        "text": "Mushroom overtones. Velvety white rind Soft Cheese, Cow, Bloomy Rind",
-        "created_at": "Little Qualicum Cheeseworks",
+        "created_at": "Little Qualicum Cheeseworks, British Columbia",
+        "flavour": "Mushroom overtones.",
+        "characteristics": "Velvety white rind.",
+        "type": "Soft cheese. Cow. Bloomy rind."
       }
     },
     {
@@ -1341,10 +1507,12 @@ var cheese =
       },
       "type": "Feature",
       "properties": {
-        "name": "Banon, Banon",
+        "name": "Banon",
         "url": "http://www.montfortedairy.com",
-        "text": "Cured in grape leaves Soft Cheese, Goat, ",
-        "created_at": "Montforte Dairy Company",
+        "created_at": "Montforte Dairy Company, Ontario",
+        "flavour": "",
+        "characteristics": "Cured in grape leaves.",
+        "type": "Soft cheese. Goat."
       }
     },
     {
@@ -1359,8 +1527,10 @@ var cheese =
       "properties": {
         "name": "Bianco Nero",
         "url": "http://www.montfortedairy.com",
-        "text": "Pyramid shape and covered with black vegetable ash Soft Cheese, Goat, ",
-        "created_at": "Montforte Dairy Company",
+        "created_at": "Montforte Dairy Company, Ontario",
+        "flavour": "",
+        "characteristics": "Pyramid shape and covered with black vegetable ash.",
+        "type": "Soft cheese. Goat."
       }
     },
     {
@@ -1375,8 +1545,10 @@ var cheese =
       "properties": {
         "name": "Bliss",
         "url": "http://www.montfortedairy.com",
-        "text": "Camembert style Soft Cheese, Ewe and Goat, Bloomy Rind",
-        "created_at": "Montforte Dairy Company",
+        "created_at": "Montforte Dairy Company, Ontario",
+        "flavour": "",
+        "characteristics": "Camembert style.",
+        "type": "Soft cheese. Ewe and goat. Bloomy rind."
       }
     },
     {
@@ -1391,8 +1563,10 @@ var cheese =
       "properties": {
         "name": "Goat Tomme",
         "url": "http://www.montfortedairy.com",
-        "text": "Tomme style Soft Cheese, Goat, ",
-        "created_at": "Montforte Dairy Company",
+        "created_at": "Montforte Dairy Company, Ontario",
+        "flavour": "",
+        "characteristics": "Tomme style.",
+        "type": "Soft cheese. Goat."
       }
     },
     {
@@ -1407,8 +1581,10 @@ var cheese =
       "properties": {
         "name": "Toscano",
         "url": "http://www.montfortedairy.com",
-        "text": "Italian style, natural rind cheese Firm Cheese, Ewe, ",
-        "created_at": "Montforte Dairy Company",
+        "created_at": "Montforte Dairy Company, Ontario",
+        "flavour": "",
+        "characteristics": "Italian style, natural rind cheese.",
+        "type": "Firm cheese. Ewe."
       }
     },
     {
@@ -1421,10 +1597,12 @@ var cheese =
       },
       "type": "Feature",
       "properties": {
-        "name": "Ricotta (Montforte)",
+        "name": "Ricotta",
         "url": "http://www.montfortedairy.com",
-        "text": "Fresh Cheese, Ewe, No Rind",
-        "created_at": "Montforte Dairy Company",
+        "created_at": "Montforte Dairy Company, Ontario",
+        "flavour": "",
+        "characteristics": "",
+        "type": "Fresh cheese. Ewe. No rind."
       }
     },
     {
@@ -1439,8 +1617,10 @@ var cheese =
       "properties": {
         "name": "Piacere",
         "url": "http://www.montfortedairy.com",
-        "text": "Covered with rosemary, chili pepper and jumper berries. Semi-soft Cheese, Ewe, ",
-        "created_at": "Montforte Dairy Company",
+        "created_at": "Montforte Dairy Company, Ontario",
+        "flavour": "Covered with rosemary, chili pepper and jumper berries.",
+        "characteristics": "",
+        "type": "Semi-soft cheese. Ewe."
       }
     },
     {
@@ -1455,8 +1635,10 @@ var cheese =
       "properties": {
         "name": "Pecorino Fresco / Pepato Fresco",
         "url": "http://www.montfortedairy.com",
-        "text": "Pecorino style Fresh Cheese, Ewe, ",
-        "created_at": "Montforte Dairy Company",
+        "created_at": "Montforte Dairy Company, Ontario",
+        "flavour": "",
+        "characteristics": "Pecorino style.",
+        "type": "Fresh cheese. Ewe."
       }
     },
     {
@@ -1471,8 +1653,10 @@ var cheese =
       "properties": {
         "name": "Paradiso",
         "url": "http://www.montfortedairy.com",
-        "text": "Semi-soft Cheese, Ewe, Washed Rind",
-        "created_at": "Montforte Dairy Company",
+        "created_at": "Montforte Dairy Company, Ontario",
+        "flavour": "",
+        "characteristics": "",
+        "type": "Semi-soft cheese. Ewe. Washed rind."
       }
     },
     {
@@ -1487,8 +1671,10 @@ var cheese =
       "properties": {
         "name": "Nika",
         "url": "http://www.montfortedairy.com",
-        "text": "herbs and organic garlic flowers. Fresh Cheese, Ewe, ",
-        "created_at": "Montforte Dairy Company",
+        "created_at": "Montforte Dairy Company, Ontario",
+        "flavour": "herbs and organic garlic flowers.",
+        "characteristics": "",
+        "type": "Fresh cheese. Ewe."
       }
     },
     {
@@ -1503,8 +1689,10 @@ var cheese =
       "properties": {
         "name": "Halloumi",
         "url": "http://www.montfortedairy.com",
-        "text": "Arabic style cheese Fresh Cheese, Ewe, ",
-        "created_at": "Montforte Dairy Company",
+        "created_at": "Montforte Dairy Company, Ontario",
+        "flavour": "",
+        "characteristics": "Arabic style cheese.",
+        "type": "Fresh cheese. Ewe."
       }
     },
     {
@@ -1519,8 +1707,10 @@ var cheese =
       "properties": {
         "name": "Fresco, Fresco",
         "url": "http://www.montfortedairy.com",
-        "text": "Fresh Cheese, Ewe, ",
-        "created_at": "Montforte Dairy Company",
+        "created_at": "Montforte Dairy Company, Ontario",
+        "flavour": "",
+        "characteristics": "",
+        "type": "Fresh cheese. Ewe."
       }
     },
     {
@@ -1535,8 +1725,10 @@ var cheese =
       "properties": {
         "name": "Belle",
         "url": "http://www.montfortedairy.com",
-        "text": "Fresh Cheese, Ewe, ",
-        "created_at": "Montforte Dairy Company",
+        "created_at": "Montforte Dairy Company, Ontario",
+        "flavour": "",
+        "characteristics": "",
+        "type": "Fresh cheese. Ewe."
       }
     },
     {
@@ -1551,8 +1743,10 @@ var cheese =
       "properties": {
         "name": "Baumans Smoked",
         "url": "http://www.montfortedairy.com",
-        "text": "Maple smoked. Inspired by the traditional oszczek Firm Cheese, Ewe, ",
-        "created_at": "Montforte Dairy Company",
+        "created_at": "Montforte Dairy Company, Ontario",
+        "flavour": "Maple smoked.",
+        "characteristics": "Inspired by the traditional oszczek.",
+        "type": "Firm cheese. Ewe."
       }
     },
     {
@@ -1567,8 +1761,10 @@ var cheese =
       "properties": {
         "name": "Cracked Pepper Verdelait",
         "url": "http://www.naturalpastures.com",
-        "text": "Spiked with a slightly warm, premium, cracked black pepper. Ripened, creamy cheese Firm Cheese, Cow, ",
-        "created_at": "Natural Pastures Cheese Company",
+        "created_at": "Natural Pastures Cheese Company, British Columbia",
+        "flavour": "Spiked with a slightly warm, premium, cracked black pepper.",
+        "characteristics": "Ripened, creamy cheese.",
+        "type": "Firm cheese. Cow."
       }
     },
     {
@@ -1583,8 +1779,10 @@ var cheese =
       "properties": {
         "name": "Cumin Verdelait",
         "url": "http://www.naturalpastures.com",
-        "text": "Mild flavour of sweet butter and a delicate, smokey, exotic, lemony finish. Firm Cheese, Cow, ",
-        "created_at": "Natural Pastures Cheese Company",
+        "created_at": "Natural Pastures Cheese Company, British Columbia",
+        "flavour": "Mild flavour of sweet butter and a delicate, smokey, exotic, lemony finish.",
+        "characteristics": "",
+        "type": "Firm cheese. Cow."
       }
     },
     {
@@ -1599,8 +1797,10 @@ var cheese =
       "properties": {
         "name": "Garlic and Chive Verdelait",
         "url": "http://www.naturalpastures.com",
-        "text": "Flavourful blend of garlic and chives. Firm Cheese, Cow, ",
-        "created_at": "Natural Pastures Cheese Company",
+        "created_at": "Natural Pastures Cheese Company, British Columbia",
+        "flavour": "Flavourful blend of garlic and chives.",
+        "characteristics": "",
+        "type": "Firm cheese. Cow."
       }
     },
     {
@@ -1615,8 +1815,10 @@ var cheese =
       "properties": {
         "name": "Wasabi Verdelait",
         "url": "http://www.naturalpastures.com",
-        "text": "Ginger, garlic and local organic wasabi.. Firm Cheese, Cow, ",
-        "created_at": "Natural Pastures Cheese Company",
+        "created_at": "Natural Pastures Cheese Company, British Columbia",
+        "flavour": "Ginger, garlic and local organic wasabi.",
+        "characteristics": "",
+        "type": "Firm cheese. Cow."
       }
     },
     {
@@ -1631,8 +1833,10 @@ var cheese =
       "properties": {
         "name": "Comox Camembert",
         "url": "http://www.naturalpastures.com",
-        "text": "Creamy with a note of mushroom. Ripened, Soft Cheese, Cow, ",
-        "created_at": "Natural Pastures Cheese Company",
+        "created_at": "Natural Pastures Cheese Company, British Columbia",
+        "flavour": "Creamy with a note of mushroom.",
+        "characteristics": "Ripened,.",
+        "type": "Soft cheese. Cow."
       }
     },
     {
@@ -1647,8 +1851,10 @@ var cheese =
       "properties": {
         "name": "Comox Brie",
         "url": "http://www.naturalpastures.com",
-        "text": "Gentle flavour with a creamy buttery taste. Soft Cheese, Cow, Bloomy Rind",
-        "created_at": "Natural Pastures Cheese Company",
+        "created_at": "Natural Pastures Cheese Company, British Columbia",
+        "flavour": "Gentle flavour with a creamy buttery taste.",
+        "characteristics": "",
+        "type": "Soft cheese. Cow. Bloomy rind."
       }
     },
     {
@@ -1663,8 +1869,10 @@ var cheese =
       "properties": {
         "name": "Triple Cream Camembert",
         "url": "http://www.naturalpastures.com",
-        "text": "Delicate note of mushroom. Soft Cheese, Cow, Bloomy Rind",
-        "created_at": "Natural Pastures Cheese Company",
+        "created_at": "Natural Pastures Cheese Company, British Columbia",
+        "flavour": "Delicate note of mushroom.",
+        "characteristics": "",
+        "type": "Soft cheese. Cow. Bloomy rind."
       }
     },
     {
@@ -1679,8 +1887,10 @@ var cheese =
       "properties": {
         "name": "Amsterdammer, Amsterdammer",
         "url": "http://www.naturalpastures.com",
-        "text": "Sweet buttery flavour with a mellow taste of herbs.  Nutty overtones with a tangy finish.. Firm Cheese, Cow, ",
-        "created_at": "Natural Pastures Cheese Company",
+        "created_at": "Natural Pastures Cheese Company, British Columbia",
+        "flavour": "Sweet buttery flavour with a mellow taste of herbs. Nutty overtones with a tangy finish.",
+        "characteristics": "",
+        "type": "Firm cheese. Cow."
       }
     },
     {
@@ -1693,10 +1903,12 @@ var cheese =
       },
       "type": "Feature",
       "properties": {
-        "name": "Boerenkaas, Boerenkaas",
+        "name": "Boerenkaas",
         "url": "http://www.naturalpastures.com",
-        "text": "Firm Cheese, Cow, ",
-        "created_at": "Natural Pastures Cheese Company",
+        "created_at": "Natural Pastures Cheese Company, British Columbia",
+        "flavour": "",
+        "characteristics": "",
+        "type": "Firm cheese. Cow."
       }
     },
     {
@@ -1711,8 +1923,10 @@ var cheese =
       "properties": {
         "name": "La Scala, La Scala",
         "url": "http://www.naturalpastures.com",
-        "text": "Bold fruity rich-tasting cheese.. Blend of Irish Derby and Italian-style Asiago. Firm Cheese, Cow, ",
-        "created_at": "Natural Pastures Cheese Company",
+        "created_at": "Natural Pastures Cheese Company, British Columbia",
+        "flavour": "Bold fruity rich-tasting cheese.",
+        "characteristics": "Blend of Irish Derby and Italian-style Asiago.",
+        "type": "Firm cheese. Cow."
       }
     },
     {
@@ -1727,8 +1941,10 @@ var cheese =
       "properties": {
         "name": "Pacific Pepper Verderlait",
         "url": "http://www.naturalpastures.com",
-        "text": "A mix of habanero and black pepper.. Firm Cheese, Cow, ",
-        "created_at": "Natural Pastures Cheese Company",
+        "created_at": "Natural Pastures Cheese Company, British Columbia",
+        "flavour": "A mix of habanero and black pepper.",
+        "characteristics": "",
+        "type": "Firm cheese. Cow."
       }
     },
     {
@@ -1743,8 +1959,10 @@ var cheese =
       "properties": {
         "name": "Winterlude Spice Verderlait",
         "url": "http://www.naturalpastures.com",
-        "text": "Spicy with cloves and cumin.. Creamy Firm Cheese, Cow, ",
-        "created_at": "Natural Pastures Cheese Company",
+        "created_at": "Natural Pastures Cheese Company, British Columbia",
+        "flavour": "Spicy with cloves and cumin.",
+        "characteristics": "Creamy.",
+        "type": "Firm cheese. Cow."
       }
     },
     {
@@ -1759,8 +1977,10 @@ var cheese =
       "properties": {
         "name": "Okanagan Double Cream Camembert",
         "url": "http://www.poplargrove.ca/cheese",
-        "text": "White truffles. Creamy Soft Cheese, Cow, ",
-        "created_at": "Poplar Grove Cheese",
+        "created_at": "Poplar Grove Cheese, British Columbia",
+        "flavour": "White truffles.",
+        "characteristics": "Creamy.",
+        "type": "Soft cheese. Cow."
       }
     },
     {
@@ -1775,8 +1995,10 @@ var cheese =
       "properties": {
         "name": "Tiger Blue",
         "url": "http://www.poplargrove.ca/cheese",
-        "text": "Intense Blue Flavour. Veined Cheeses, Cow, ",
-        "created_at": "Poplar Grove Cheese",
+        "created_at": "Poplar Grove Cheese, British Columbia",
+        "flavour": "Intense Blue Flavour.",
+        "characteristics": "",
+        "type": "Veined cheese. Cow."
       }
     },
     {
@@ -1791,8 +2013,10 @@ var cheese =
       "properties": {
         "name": "Naramata Bench Blue",
         "url": "http://www.poplargrove.ca/cheese",
-        "text": "Mild. Creamy Veined Cheeses, Cow, ",
-        "created_at": "Poplar Grove Cheese",
+        "created_at": "Poplar Grove Cheese, British Columbia",
+        "flavour": "Mild.",
+        "characteristics": "Creamy.",
+        "type": "Veined cheese. Cow."
       }
     },
     {
@@ -1807,8 +2031,10 @@ var cheese =
       "properties": {
         "name": "Harvest Moon",
         "url": "http://www.poplargrove.ca/cheese",
-        "text": "Soft Cheese, Cow, Washed Rind",
-        "created_at": "Poplar Grove Cheese",
+        "created_at": "Poplar Grove Cheese, British Columbia",
+        "flavour": "",
+        "characteristics": "",
+        "type": "Soft cheese. Cow. Washed rind."
       }
     },
     {
@@ -1821,10 +2047,12 @@ var cheese =
       },
       "type": "Feature",
       "properties": {
-        "name": "Chevre Cheeses (Salt Spring Island)",
+        "name": "Chevre",
         "url": "http://www.saltspringcheese.com",
-        "text": "Plain, Basil, Chili, Garlic, Lemon, Pepper, Sun Dried Tomato, and White Truffle. Soft Cheese, Goat, ",
-        "created_at": "Salt Spring Island Cheese Company",
+        "created_at": "Salt Spring Island Cheese Company, British Columbia",
+        "flavour": "Plain, Basil, Chili, Garlic, Lemon, Pepper, Sun Dried Tomato, and White Truffle.",
+        "characteristics": "",
+        "type": "Soft cheese. Goat."
       }
     },
     {
@@ -1837,10 +2065,12 @@ var cheese =
       },
       "type": "Feature",
       "properties": {
-        "name": "Feta (Salt Spring Island)",
+        "name": "Feta",
         "url": "http://www.saltspringcheese.com",
-        "text": "Plain (olives and rosemary) & a spicy chili feta.. Fresh Cheese, Goat, ",
-        "created_at": "Salt Spring Island Cheese Company",
+        "created_at": "Salt Spring Island Cheese Company, British Columbia",
+        "flavour": "Plain (olives and rosemary) & a spicy chili feta.",
+        "characteristics": "",
+        "type": "Fresh cheese. Goat."
       }
     },
     {
@@ -1855,8 +2085,10 @@ var cheese =
       "properties": {
         "name": "Montana",
         "url": "http://www.saltspringcheese.com",
-        "text": "Milder and sweeter. Hard Cheese, Ewe and Goat, ",
-        "created_at": "Salt Spring Island Cheese Company",
+        "created_at": "Salt Spring Island Cheese Company, British Columbia",
+        "flavour": "Milder and sweeter.",
+        "characteristics": "",
+        "type": "Hard cheese. Ewe and goat."
       }
     },
     {
@@ -1871,8 +2103,10 @@ var cheese =
       "properties": {
         "name": "Juliette",
         "url": "http://www.saltspringcheese.com",
-        "text": "Mild and creamy (rosemary). Camembert Soft Cheese, Ewe and Goat, ",
-        "created_at": "Salt Spring Island Cheese Company",
+        "created_at": "Salt Spring Island Cheese Company, British Columbia",
+        "flavour": "Mild and creamy (rosemary).",
+        "characteristics": "Camembert.",
+        "type": "Soft cheese. Ewe and goat."
       }
     },
     {
@@ -1885,10 +2119,12 @@ var cheese =
       },
       "type": "Feature",
       "properties": {
-        "name": "Ricotta (Shepherd Gourmet)",
+        "name": "Ricotta",
         "url": "http://www.shepherdgourmetdairy.com",
-        "text": "Ricotta is made from sweet whey Fresh Cheese, Ewe, No Rind",
-        "created_at": "Shepherd Gourmet Dairy",
+        "created_at": "Shepherd Gourmet Dairy, Ontario",
+        "flavour": "",
+        "characteristics": "Ricotta is made from sweet whey.",
+        "type": "Fresh cheese. Ewe. No rind."
       }
     },
     {
@@ -1903,8 +2139,10 @@ var cheese =
       "properties": {
         "name": "Krinos Sheep Feta (Shepherd Gourmet)",
         "url": "http://www.shepherdgourmetdairy.com",
-        "text": "Semi-soft Cheese, Ewe, No Rind",
-        "created_at": "Shepherd Gourmet Dairy",
+        "created_at": "Shepherd Gourmet Dairy, Ontario",
+        "flavour": "",
+        "characteristics": "",
+        "type": "Semi-soft cheese. Ewe. No rind."
       }
     },
     {
@@ -1917,10 +2155,12 @@ var cheese =
       },
       "type": "Feature",
       "properties": {
-        "name": "Creamy Feta (Triple A Cheese)",
+        "name": "Creamy Feta",
         "url": "http://www.tripleacheese.com",
-        "text": "Balkan, middle eastern flavoured cheese. Rich Flavour, similar to kaymak or Lebene, Balkan, middle eastern flavoured cheese Fresh Cheese, Cow, ",
-        "created_at": "Triple A Cheese Company",
+        "created_at": "Triple A Cheese Company, Ontario",
+        "flavour": "Balkan, middle eastern flavoured cheese.",
+        "characteristics": "Rich Flavour, similar to kaymak or Lebene, Balkan, middle eastern flavoured cheese.",
+        "type": "Fresh cheese. Cow."
       }
     },
     {
@@ -1934,9 +2174,11 @@ var cheese =
       "type": "Feature",
       "properties": {
         "name": "Athonite",
-        "url": "http://www.monastere.org/Virgin_Mary_of_Consolation/Home.html",
-        "text": "Caprine flavor slightly acid and salty. Gouda type cheese with red waxed rind. Ivory-colored cheese with a crumbly texture. Firm Cheese, Goat, ",
-        "created_at": "Troupeau Benit (Le)",
+        "url": "http://www.monastere.org/French/Boutique.html",
+        "created_at": "Le Troupeau Benit, Quebec",
+        "flavour": "Caprine flavor slightly acid and salty.",
+        "characteristics": "Gouda type cheese with red waxed rind. Ivory-colored cheese with a crumbly texture.",
+        "type": "Firm cheese. Goat."
       }
     },
     {
@@ -1950,9 +2192,11 @@ var cheese =
       "type": "Feature",
       "properties": {
         "name": "Bon Berger",
-        "url": "http://www.monastere.org/Virgin_Mary_of_Consolation/Home.html",
-        "text": "Butter and almond aftertaste. Havarti type cheese covered with yellow wax. Ivory-colored cheese with small holes. Firm Cheese, Goat, ",
-        "created_at": "Troupeau Benit (Le)",
+        "url": "http://www.monastere.org/French/Boutique.html",
+        "created_at": "Le Troupeau Benit, Quebec",
+        "flavour": "Butter and almond aftertaste.",
+        "characteristics": "Havarti type cheese covered with yellow wax. Ivory-colored cheese with small holes.",
+        "type": "Firm cheese. Goat."
       }
     },
     {
@@ -1965,10 +2209,12 @@ var cheese =
       },
       "type": "Feature",
       "properties": {
-        "name": "Feta (Troupeau BÃ©nit)",
-        "url": "http://www.monastere.org/Virgin_Mary_of_Consolation/Home.html",
-        "text": "Mild and salted with an almond and buttery aftertaste. Damp and crumbly Semi-soft Cheese, Ewe and Goat, No Rind",
-        "created_at": "Troupeau Benit (Le)",
+        "name": "Feta",
+        "url": "http://www.monastere.org/French/Boutique.html",
+        "created_at": "Le Troupeau Benit, Quebec",
+        "flavour": "Mild and salted with an almond and buttery aftertaste.",
+        "characteristics": "Damp and crumbly.",
+        "type": "Semi-soft cheese. Ewe and goat. No rind."
       }
     },
     {
@@ -1982,9 +2228,11 @@ var cheese =
       "type": "Feature",
       "properties": {
         "name": "Graviera",
-        "url": "http://www.monastere.org/Virgin_Mary_of_Consolation/Home.html",
-        "text": "Mild, buttery and hazelnut flavour with a hint of fruits and salt. Gruyere type cheese. Ivory-colored cheese with small holes irregularly dispersed. Firm Cheese, Ewe and Goat, ",
-        "created_at": "Troupeau Benit (Le)",
+        "url": "http://www.monastere.org/French/Boutique.html",
+        "created_at": "Le Troupeau Benit, Quebec",
+        "flavour": "Mild, buttery and hazelnut flavour with a hint of fruits and salt.",
+        "characteristics": "Gruyere type cheese. Ivory-colored cheese with small holes irregularly dispersed.",
+        "type": "Firm cheese. Ewe and goat."
       }
     },
     {
@@ -1997,10 +2245,12 @@ var cheese =
       },
       "type": "Feature",
       "properties": {
-        "name": "Petites Soeurs (Les)",
-        "url": "",
-        "text": "Available plain or seasoned with chives, provenÃƒÂ§al herbs, mint and peppers or onion. Creamy and white cheese, ball-shaped Fresh Cheese, Goat, No Rind",
-        "created_at": "Troupeau Benit (Le)",
+        "name": "Les Petites Soeurs",
+        "url": "http://www.monastere.org/French/Boutique.html",
+        "created_at": "Le Troupeau Benit, Quebec",
+        "flavour": "Available plain or seasoned with chives, provenÃƒÂ§al herbs, mint and peppers or onion.",
+        "characteristics": "Creamy and white cheese, ball-shaped.",
+        "type": "Fresh cheese. Goat. No rind."
       }
     },
     {
@@ -2014,9 +2264,11 @@ var cheese =
       "type": "Feature",
       "properties": {
         "name": "Symandre",
-        "url": "http://www.monastere.org/Virgin_Mary_of_Consolation/Home.html",
-        "text": "Mild, slightly salty and acid with an almond and butter aftertaste. Seasoned with pepper and onions or with garden fine herbs. Havarti-type cheese. Firm and crumbly texture. Ivory-colored. Covered with yellow wax. Firm Cheese, Goat, No Rind",
-        "created_at": "Troupeau Benit (Le)",
+        "url": "http://www.monastere.org/French/Boutique.html",
+        "created_at": "Le Troupeau Benit, Quebec",
+        "flavour": "Mild, slightly salty and acid with an almond and butter aftertaste. Seasoned with pepper and onions or with garden fine herbs.",
+        "characteristics": "Havarti-type cheese. Firm and crumbly texture. Ivory-colored. Covered with yellow wax.",
+        "type": "Firm cheese. Goat. No rind."
       }
     },
     {
@@ -2029,10 +2281,12 @@ var cheese =
       },
       "type": "Feature",
       "properties": {
-        "name": "Cheddar (Village Cheese)",
+        "name": "Cheddar",
         "url": "http://www.villagecheese.com",
-        "text": "Mild, Medium, Aged, extra old. White or couloured Firm Cheese, Cow, No Rind",
-        "created_at": "Village Cheese Company",
+        "created_at": "Village Cheese Company, British Columbia",
+        "flavour": "Mild, Medium, Aged, extra old.",
+        "characteristics": "White or couloured.",
+        "type": "Firm cheese. Cow. No rind."
       }
     },
     {
@@ -2045,10 +2299,12 @@ var cheese =
       },
       "type": "Feature",
       "properties": {
-        "name": "Feta (Village Cheese)",
+        "name": "Feta",
         "url": "http://www.villagecheese.com",
-        "text": "Salty, with Spices. Soft Cheese, Goat, ",
-        "created_at": "Village Cheese Company",
+        "created_at": "Village Cheese Company, British Columbia",
+        "flavour": "Salty, with Spices.",
+        "characteristics": "",
+        "type": "Soft cheese. Goat."
       }
     },
     {
@@ -2061,10 +2317,12 @@ var cheese =
       },
       "type": "Feature",
       "properties": {
-        "name": "Chevre (Village Cheese)",
+        "name": "Chevre",
         "url": "http://www.villagecheese.com",
-        "text": "Soft Cheese, Goat, ",
-        "created_at": "Village Cheese Company",
+        "created_at": "Village Cheese Company, British Columbia",
+        "flavour": "",
+        "characteristics": "",
+        "type": "Soft cheese. Goat."
       }
     },
     {
@@ -2077,10 +2335,12 @@ var cheese =
       },
       "type": "Feature",
       "properties": {
-        "name": "Swiss (Village Cheese)",
+        "name": "Swiss",
         "url": "http://www.villagecheese.com",
-        "text": "Firm Cheese, Goat, No Rind",
-        "created_at": "Village Cheese Company",
+        "created_at": "Village Cheese Company, British Columbia",
+        "flavour": "",
+        "characteristics": "",
+        "type": "Firm cheese. Goat. No rind."
       }
     },
     {
@@ -2093,10 +2353,12 @@ var cheese =
       },
       "type": "Feature",
       "properties": {
-        "name": "Havarti (Village Cheese)",
+        "name": "Havarti",
         "url": "http://www.villagecheese.com",
-        "text": "Semi-soft Cheese, Goat, ",
-        "created_at": "Village Cheese Company",
+        "created_at": "Village Cheese Company, British Columbia",
+        "flavour": "",
+        "characteristics": "",
+        "type": "Semi-soft cheese. Goat."
       }
     },
     {
@@ -2109,10 +2371,12 @@ var cheese =
       },
       "type": "Feature",
       "properties": {
-        "name": "Edam (Village Cheese)",
+        "name": "Edam",
         "url": "http://www.villagecheese.com",
-        "text": "Firm Cheese, Goat, ",
-        "created_at": "Village Cheese Company",
+        "created_at": "Village Cheese Company, British Columbia",
+        "flavour": "",
+        "characteristics": "",
+        "type": "Firm cheese. Goat."
       }
     },
     {
@@ -2125,10 +2389,12 @@ var cheese =
       },
       "type": "Feature",
       "properties": {
-        "name": "Parmesan (Village Cheese)",
+        "name": "Parmesan",
         "url": "http://www.villagecheese.com",
-        "text": "Hard Cheese, Cow, ",
-        "created_at": "Village Cheese Company",
+        "created_at": "Village Cheese Company, British Columbia",
+        "flavour": "",
+        "characteristics": "",
+        "type": "Hard cheese. Cow."
       }
     },
     {
@@ -2141,10 +2407,12 @@ var cheese =
       },
       "type": "Feature",
       "properties": {
-        "name": "Monterey Jack (Village Cheese)",
+        "name": "Monterey Jack",
         "url": "http://www.villagecheese.com",
-        "text": "Firm Cheese, Goat, ",
-        "created_at": "Village Cheese Company",
+        "created_at": "Village Cheese Company, British Columbia",
+        "flavour": "",
+        "characteristics": "",
+        "type": "Firm cheese. Goat."
       }
     },
     {
@@ -2157,10 +2425,12 @@ var cheese =
       },
       "type": "Feature",
       "properties": {
-        "name": "Swiss Alpine Meadow (Village Cheese)",
+        "name": "Swiss Alpine Meadow",
         "url": "http://www.villagecheese.com",
-        "text": "Firm Cheese, Goat, No Rind",
-        "created_at": "Village Cheese Company",
+        "created_at": "Village Cheese Company, British Columbia",
+        "flavour": "",
+        "characteristics": "",
+        "type": "Firm cheese. Goat. No rind."
       }
     },
     {
@@ -2173,10 +2443,12 @@ var cheese =
       },
       "type": "Feature",
       "properties": {
-        "name": "Mozzarella (Village Cheese)",
+        "name": "Mozzarella",
         "url": "http://www.villagecheese.com",
-        "text": "Semi-soft Cheese, Goat, ",
-        "created_at": "Village Cheese Company",
+        "created_at": "Village Cheese Company, British Columbia",
+        "flavour": "",
+        "characteristics": "",
+        "type": "Semi-soft cheese. Goat."
       }
     },
     {
@@ -2189,10 +2461,12 @@ var cheese =
       },
       "type": "Feature",
       "properties": {
-        "name": "Gouda (Village Cheese)",
+        "name": "Gouda",
         "url": "http://www.villagecheese.com",
-        "text": "Firm Cheese, Goat, ",
-        "created_at": "Village Cheese Company",
+        "created_at": "Village Cheese Company, British Columbia",
+        "flavour": "",
+        "characteristics": "",
+        "type": "Firm cheese. Goat."
       }
     },
     {
@@ -2205,10 +2479,12 @@ var cheese =
       },
       "type": "Feature",
       "properties": {
-        "name": "Brick (Village Cheese)",
+        "name": "Brick",
         "url": "http://www.villagecheese.com",
-        "text": "Firm Cheese, Goat, ",
-        "created_at": "Village Cheese Company",
+        "created_at": "Village Cheese Company, British Columbia",
+        "flavour": "",
+        "characteristics": "",
+        "type": "Firm cheese. Goat."
       }
     },
     {
@@ -2221,10 +2497,12 @@ var cheese =
       },
       "type": "Feature",
       "properties": {
-        "name": "Quark (Village Cheese)",
+        "name": "Quark",
         "url": "http://www.villagecheese.com",
-        "text": "Fresh Cheese, Goat, ",
-        "created_at": "Village Cheese Company",
+        "created_at": "Village Cheese Company, British Columbia",
+        "flavour": "",
+        "characteristics": "",
+        "type": "Fresh cheese. Goat."
       }
     },
     {
@@ -2237,9 +2515,11 @@ var cheese =
       },
       "type": "Feature",
       "properties": {
-        "name": "Chevre (Village Cheese)",
+        "name": "Chevre",
         "url": "http://www.villagecheese.com",
-        "text": "Plain. Fresh Cheese, Goat, ",
-        "created_at": "Village Cheese Company",
+        "created_at": "Village Cheese Company, British Columbia",
+        "flavour": "Plain.",
+        "characteristics": "",
+        "type": "Fresh cheese. Goat."
       }
     }], "type": "FeatureCollection"}

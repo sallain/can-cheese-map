@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 
-  <link rel="stylesheet" href="../css/theme.css" />
+  <link rel="stylesheet" href="theme.css" />
 
   <title>Canadian Artisanal Cheese Map</title>
 
@@ -47,7 +47,7 @@
 
       var geoJsonLayer = L.geoJson(cheese, {
         onEachFeature: function (feature, layer) {
-        layer.bindPopup('<p><b>'+ feature.properties.name +'</b></p><p>Made by: <a href="'+ feature.properties.url +'" target="_blank">'+ feature.properties.created_at +'</a></p><p>'+ feature.properties.text +'</p>');
+        layer.bindPopup('<p><b>'+ feature.properties.name +'</b></p><p>Made by: <a href="'+ feature.properties.url +'" target="_blank">'+ feature.properties.created_at +'</a></p><p>Flavour: '+ feature.properties.flavour +'</p><p>Characteristics: '+ feature.properties.characteristics+ '</p><p>Type: '+ feature.properties.type + '</p>');
         }
       });
 
