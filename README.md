@@ -6,13 +6,14 @@ Used to export tabular data from Open Refine into geojson.
 
 **Prefix**
 
-var cheese =
+`var cheese =
 
-`{
+{
   "type": "FeatureCollection",
   "features": [`
 
 ** Row Template **
+
     `{
       "geometry": {
         "type": "Point",
@@ -30,7 +31,8 @@ var cheese =
       }
     }`
 
-** Row Separator **
+**Row Separator**
+
 `,`
 
 ** Suffix **
